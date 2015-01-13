@@ -1,0 +1,259 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	font-size:17px;
+	padding-top:10px;
+	text-align:justify;
+}
+
+.logo{
+	background-image:url("../img/logo.png");	
+	height:250px;
+	width: 215px;
+	margin-top:-100px;
+	transform: scale(0.3, 0.3);
+	-ms-transform: scale(0.3, 0.3);
+	-webkit-transform: scale(0.3, 0.3);
+}
+
+.navbar{
+	min-height:90px !important;
+}
+
+.navbar-default{
+	background-image: linear-gradient(to bottom,#fff 0,#fff 100%) !important;
+}
+
+.signup{
+	margin-top:5px;
+	margin-left:-270px;
+	position:absolute;
+	font-size:17px;
+	width:170px;
+	height:52px;
+}
+
+.carousel1-img{
+	background-image:url('../img/photo/kids.png');
+	height:15em;
+}
+
+.carousel2-img{
+	background-image:url('../img/photo/donate_help.jpg');
+	height:172px;
+}
+
+.carousel3-img{
+	background-image:url('../img/photo/i00299.jpg');
+	height:172px;
+}
+
+.container-navbar{
+	top: 0px;
+	height: 50px;
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content{
+	float:none;
+	width:985px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content-social{
+	top: 0px;
+	height: 100px;
+	width: 980px;
+	margin-left: 580px;
+	margin-right: auto;
+	margin-top:-170px;
+}
+
+
+.about-us, .future{
+	background-color: #F5F5F5;
+}
+
+.subscribe-pay{
+	top: -100px;
+	height: 700px;
+	width: 980px;
+	margin-left: 500px;
+	margin-right: auto;
+	background-image:url('../img/kid-cartoon.jpg');
+	background-repeat: no-repeat;
+}
+
+.subscribe-form{
+	position: absolute;
+	margin-top: 170px;
+	margin-left: 200px;
+	width: 1000px;
+}
+
+.form-group {
+	margin-bottom: 7px !important;
+}
+
+.title{
+	font-size:30px;
+	text-align: center;
+	padding-top:10px;
+}
+
+.side-title{
+	font-size:20px;
+	padding-top:10px;
+}
+
+form{
+	width:400px !important;
+}
+
+.col-md-2 {
+	width: 10% !important;
+}
+
+.container-fluid{
+	padding-left:0px !important;
+}
+
+.container {
+ 	width: 100% !important;
+}
+
+#myCarousel{
+	height:50% !important;
+}
+
+.fill{
+	height:500px !important;
+}
+
+.dynamicTile .col-sm-2.col-xs-4{
+    padding:5px;
+}
+
+.dynamicTile .col-sm-4.col-xs-8{
+    padding:5px;
+}
+
+.tilecaption{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%); 
+    margin:0!important;
+    text-align: center;
+    color:white;
+    font-family: Segoe UI;
+    font-weight: lighter;
+}
+
+.events{
+	background-color: #ffffff;
+}
+
+.team{
+	background-color: #ffffff;
+	height:450px;
+}
+
+.raised {
+	font-size: 46px;
+	line-height: 48px;
+	letter-spacing: -1px;
+	color: #333;
+	padding-top: 20px;
+}
+
+.raised .cur {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	line-height: 32px;
+	vertical-align: 10px;
+	color: #333;
+}
+
+.raised .of {
+	font-family: 'lato', sans-serif;
+	font-size: 16px;
+	line-height: 48px;
+	letter-spacing: 0;
+	color: #999;
+}
+
+.raised .goal {
+	font-family: 'lato', sans-serif;
+	font-size: 16px;
+	line-height: 48px;
+	letter-spacing: 0;
+	color: #666;
+}
+
+.progress{
+	width:250px !important;
+}
+
+.time{
+	color: #333;
+	font-weight: 400;
+	font-size:17px;
+}
+
+.photo-tile{
+	margin-top:85px;
+}
+
+.tileRow2{
+	margin-top:-5px;
+}
+
+.tileRow1{
+
+}
+
+table td {
+    border: none !important;
+}
+
+.nopadding 
+{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+.col-lg-6 {
+	width: 70% !important;
+}
+
+.col-lg-4 {
+	width: 30% !important;
+}
+
+.upcoming{
+	margin-left:10px;
+}
+
+.nav{
+	margin-top: 19px !important;
+	font-size: 18px !important;
+}
+
+.navbar-header{
+	margin-left:-87px;
+}
+
+
+
